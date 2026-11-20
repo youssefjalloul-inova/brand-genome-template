@@ -1,0 +1,270 @@
+{
+  "meta": {
+    "brand": "",
+    "system": "<Brand> Brand Genome",
+    "version": "0.1.0",
+    "updated": "",
+    "owner": "",
+    "ip_owner": "",
+    "domain": "",
+    "status_key": {
+      "approved": "decided by the owner",
+      "proposed": "drafted, needs sign-off",
+      "ready": "fact publishable with source",
+      "framed": "publish only as described",
+      "needs-source": "do not publish",
+      "conflict": "team must decide"
+    },
+    "how_to_use": "Read this file before writing, designing or generating anything for the brand. Only facts with status ready (or framed, as described) may be published."
+  },
+  "foundations": {
+    "name": {
+      "value": "",
+      "meaning": "",
+      "say": "",
+      "never": [],
+      "status": ""
+    },
+    "purpose": {
+      "value": "",
+      "status": ""
+    },
+    "mission": {
+      "value": "",
+      "status": ""
+    },
+    "vision": {
+      "value": "",
+      "status": ""
+    },
+    "values": {
+      "value": [],
+      "status": ""
+    },
+    "promise": {
+      "value": "",
+      "status": ""
+    },
+    "headline": {
+      "value": "",
+      "status": ""
+    },
+    "positioning": {
+      "value": "",
+      "status": ""
+    },
+    "archetype": {
+      "primary": "",
+      "to_buyers": "",
+      "status": ""
+    }
+  },
+  "lean_canvas": {
+    "problem": [],
+    "alternatives": [],
+    "segments": {
+      "all": "",
+      "early_adopters": ""
+    },
+    "uvp": "",
+    "solution": [],
+    "channels": [],
+    "revenue": {
+      "streams": [],
+      "pricing": ""
+    },
+    "costs": [],
+    "key_metrics": [],
+    "unfair_advantage": []
+  },
+  "blue_ocean": {
+    "status": "",
+    "eliminate": [],
+    "reduce": [],
+    "raise": [],
+    "create": [],
+    "canvas_factors": [],
+    "canvas_scores": {
+      "global_consultancy": [],
+      "public_cloud_platform": [],
+      "freelance_consultant": [],
+      "yj": []
+    }
+  },
+  "corner": {
+    "status": "",
+    "who": "",
+    "client": "",
+    "spark": "",
+    "loop": "",
+    "cast": [
+      {
+        "seat": "",
+        "who": "",
+        "win": "",
+        "prop": "",
+        "cue": ""
+      }
+    ],
+    "next": []
+  },
+  "story": {
+    "buyer": {
+      "framework": "",
+      "hero": "",
+      "villain": "",
+      "guide": "",
+      "plan": [],
+      "win": "",
+      "failure": ""
+    },
+    "audience": {
+      "hero": "",
+      "villain": "",
+      "guide": "",
+      "plan": [],
+      "win": ""
+    },
+    "villain": {
+      "name": "",
+      "definition": "",
+      "picture": "",
+      "helpers": [],
+      "rules": [],
+      "status": ""
+    },
+    "supporting_cast": [
+      {
+        "name": "",
+        "role": ""
+      }
+    ],
+    "arc": []
+  },
+  "characters": {
+    "toastie": {
+      "name": "",
+      "species": "",
+      "role": "",
+      "style": "",
+      "never": []
+    },
+    "ding": {
+      "name": "",
+      "species": "",
+      "role": "",
+      "style": "",
+      "never": []
+    },
+    "frosty": {
+      "name": "",
+      "species": "",
+      "role": "",
+      "style": "",
+      "never": []
+    },
+    "assets": "",
+    "prompts": ""
+  },
+  "world": {
+    "home": "",
+    "away": "",
+    "rules": []
+  },
+  "identity": {
+    "logo": {
+      "files": "",
+      "default": "",
+      "mark": "",
+      "note": ""
+    },
+    "colours": {
+      "ink": "",
+      "ink_2": "",
+      "ink_3": "",
+      "ink_4": "",
+      "text": "",
+      "mute": "",
+      "dim": "",
+      "sky": "",
+      "signal_mid": "",
+      "lime": "",
+      "orange": "",
+      "alert": ""
+    },
+    "type": {
+      "headline": "",
+      "body": "",
+      "label": "",
+      "icons": ""
+    },
+    "theme": "",
+    "tokens": ""
+  },
+  "voice": {
+    "words": [],
+    "registers": [],
+    "spelling": "",
+    "rules": [],
+    "banned": []
+  },
+  "messages": {
+    "promise": {
+      "en": "",
+      "ar": ""
+    },
+    "headline": {
+      "en": "",
+      "ar": ""
+    },
+    "eyebrow": {
+      "en": "",
+      "ar": ""
+    },
+    "kids": {
+      "en": "",
+      "ar": ""
+    },
+    "tagline": {
+      "en": "",
+      "ar": ""
+    },
+    "problem": {
+      "en": "",
+      "status": ""
+    },
+    "cta_primary": "",
+    "cta_secondary": "",
+    "boilerplate_25": ""
+  },
+  "facts": [
+    {
+      "id": "example.fact",
+      "claim": "",
+      "status": "needs-source"
+    }
+  ],
+  "guardrails": {
+    "never": [
+      "Publish a fact that is not ready or framed",
+      "Attack or stereotype a person, nationality, culture or group",
+      "Show faces frowning, upset, angry or sad",
+      "Present AI-generated people as real customers"
+    ],
+    "slop_check": [
+      "Real face",
+      "Real number",
+      "Real idea",
+      "One idea, one CTA",
+      "On story"
+    ],
+    "approval": [
+      "Brief issue",
+      "Branch + draft",
+      "Claims check",
+      "Slop check",
+      "Positivity check",
+      "PR approved by the brand owner"
+    ]
+  }
+}

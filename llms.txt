@@ -1,0 +1,8 @@
+# <Brand> brand genome
+
+> One-paragraph summary of the brand: who it is for, the promise, the story (hero, villain, guide) and the rules.
+
+## Core
+- [brand.json](brand.json)
+- [AGENTS.md](AGENTS.md)
+- [Facts register](03-facts/facts.md)
